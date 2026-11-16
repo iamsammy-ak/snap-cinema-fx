@@ -141,6 +141,10 @@ snap-cinema-fx/
 └── lib/               MediaPipe Tasks Vision bundle and WebAssembly runtime
 ```
 
+## License
+
+The extension's own code is released under the [MIT License](LICENSE). The bundled MediaPipe library and models, and the images in `memes/`, are third-party material and are not covered by it. See Credits below.
+
 ## Credits
 
 - Hand, pose, and face tracking by [MediaPipe Tasks Vision](https://ai.google.dev/edge/mediapipe/solutions/vision/hand_landmarker) from Google, licensed under Apache 2.0. The library and models are bundled in `lib/` and `models/`.
